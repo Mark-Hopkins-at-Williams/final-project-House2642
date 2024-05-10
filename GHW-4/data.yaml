@@ -1,0 +1,15 @@
+names:
+- Aidan
+- Ben
+- Eric
+- Person
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: ghw
+  url: https://universe.roboflow.com/aidan-housenbold/ghw/dataset/4
+  version: 4
+  workspace: aidan-housenbold
+test: ../test/images
+train: GHW-4/train/images
+val: GHW-4/valid/images
